@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/cunjiangzhai/.gradle/caches/transforms-2/files-2.1/baacf2cf31d994e9749409ec0de45a39/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/cunjiangzhai/.gradle/caches/transforms-2/files-2.1/baacf2cf31d994e9749409ec0de45a39/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/cunjiangzhai/.gradle/caches/transforms-2/files-2.1/baacf2cf31d994e9749409ec0de45a39/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/cunjiangzhai/.gradle/caches/transforms-2/files-2.1/baacf2cf31d994e9749409ec0de45a39/res/layout-v21/notification_action.xml"
+    }
+]

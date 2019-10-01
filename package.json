@@ -1,0 +1,22 @@
+{
+  "name": "react-native-zbar-android",
+  "version": "0.1.0",
+  "description": "React Native Android module use Zbar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "Zbar"
+  ],
+  "author": "zhai",
+  "license": "MIT",
+  "repository": "https://github.com/azhai2016/react-nactive-zbar-android.git",
+  "bugs": "https://github.com/azhai2016/react-nactive-zbar-android/issues",
+  "peerDependencies": {
+    "react-native": ">=0.51"
+  }
+}

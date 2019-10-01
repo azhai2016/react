@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-11:12
+	package
+		ADDED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+		ADDED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+		ADDED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:4:5-65
+	android:name
+		ADDED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:4:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:5:22-78
+application
+ADDED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:7:5-9:19
+activity#com.baq.rn.zbar.ZbarScannerActivity
+ADDED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:8:9-72
+	android:name
+		ADDED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:8:19-69
+uses-sdk
+INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+		ADDED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+		ADDED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/cunjiangzhai/works/react/demo5/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
