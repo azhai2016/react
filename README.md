@@ -4,8 +4,8 @@
 Fast QR Code Scanner for Android based on https://github.com/ZBar/ZBar
 
 ## Installation Android
-1. `npm install react-native-zbar-android --save`
-2. `react-native link react-native-zbar-android`
+1. `yarn add react-native-zbar-android@git+https://git@github.com/azhai2016/react-native-zbar-android.git`
+2. `react-native link react-native-zbar-android`  -- 可省略
 
 # Usage
 
