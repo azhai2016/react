@@ -1,0 +1,1 @@
+# react-nactive-zbar-android
