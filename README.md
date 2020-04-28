@@ -4,7 +4,7 @@
 Fast QR Code Scanner for Android based on https://github.com/ZBar/ZBar
 
 ## Installation Android
-1. `yarn add react-native-zbar-android@git+https://git@github.com/azhai2016/react-nactive-zbar-android.git`
+1. `yarn add https://git@github.com/azhai2016/react-nactive-zbar-android.git`
 2. `react-native link react-native-zbar-android`  -- 可省略
 
 # Usage
@@ -20,12 +20,17 @@ import {
   View
 } from 'react-native';
 
-class MyPickers extends Component {
+class Demo extends Component {
+
+   _onscan=()=>{
+      startScan(this._onBarCodeRead.bind(this))
+   }
 
   render () {
-    startScan(this._onBarCodeRead.bind(this))
     return (
-      <View/>
+      <View>
+        <Button onPress={this._onscan} ></Button>
+      </View>
     )
   }
 
